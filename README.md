@@ -51,4 +51,8 @@ Los modelos alcanzaron altos niveles de precisión, con ResNet18 mejorado logran
 
 El proyecto incluye técnicas de mejora como balanceo de clases, uso de AUC como métrica principal, y visualización de curvas ROC para comparar modelos.
 
+Para descargar modelos entrenados y mejorados utilizar el siguiente enlace
+https://drive.google.com/drive/folders/1TikIRCff_syYCtaQF-YPj_IsbfaCp2rQ?usp=sharing
+
+
 ---
